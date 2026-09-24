@@ -148,6 +148,12 @@
 		(path "/254c6676-1fda-40d1-8e99-ee6da2728da4")
 		(sheetname "/")
 		(sheetfile "Zero-Fax-Hat.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -287,6 +293,12 @@
 		(path "/adba93fa-d219-487d-9420-bf287a01031c")
 		(sheetname "/")
 		(sheetfile "Zero-Fax-Hat.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -426,6 +438,12 @@
 		(path "/cbaf9611-36e5-4365-b475-0ae871360094")
 		(sheetname "/")
 		(sheetfile "Zero-Fax-Hat.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -565,6 +583,12 @@
 		(path "/a1a9438d-f4cb-40ea-8442-a5b969ff4d43")
 		(sheetname "/")
 		(sheetfile "Zero-Fax-Hat.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
